@@ -1,9 +1,25 @@
 class Solution():
+    """
+    This was a particulary challenging problem that I ran into while taking
+    the General Coding Assessment. The mathematics of the problem were a huge
+    stumbling block for me, as well as the actual best method for implementing
+    the matrix shifts. In the end, I devised a strategy that focused on mapping
+    matrix coordinates to what their new coordinates would be after three different
+    mutation methods. My solution was brute-force and by no means elegant. I didn't
+    end up finishing, as the implementation of the mapping took rather longer than
+    I had expected, although I did have a solid framework for implementing the
+    solution in a way that I thought of personally.
+
+    Curious, I took to the internet to find the elegant solution for rotation that
+    I was so sure existed, just outside the scope of my knowledge. The solution
+    was far simpler than I could have imagined, and would be fairly easy to implement
+    with a slight refactoring of my code. 
+    """
     def mutateMatrix(self, a, q):
         midpoint = (len(a) - 1) / 2
 
         def rotate90Clockwise(A):
-            # code needs to be adapted
+            # code needs to be adapted, was pulled off the web
             N = len(A[0]) 
             for i in range(N // 2): 
                 for j in range(i, N - i - 1): 
@@ -29,6 +45,7 @@ class Solution():
                 ni = midpoint - di
                 nj = j
             else:
+                # handle cases for midpoints
                 pass
 
             print(f"{i}, {j} -> {int(ni)}, {int(nj)}")
