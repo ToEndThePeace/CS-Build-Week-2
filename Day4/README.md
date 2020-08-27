@@ -43,13 +43,3 @@ Expected Outputs:
 2. "acbaaadcbaaadefgggg"
 3. "leetcodeleetcodeleetcodeleetcodeleetcodeleetcodeleetcodeleetcodeleetcodeleetcode"
 ```
-
-Hi, I'm Brandon, and I taught myself to code in middle school. When I was around 12 years old, I was bored at home over the summer, and I went to the library a lot. After reading through the most promising of YA fiction and manga, I began to explore the other stacks, where I came across a cool-looking intro web design book.
-
-I quickly learned HTML 4.01, which naturally led to CSS2, then JavaScript and jQuery. I kept self-studying throughout high school, making fun little websites to pass the time. In my junior year, I got a TI-84+ graphing calculator for my calculus class and immediately discovered that you could write programs in it. 
-
-After exhausting the entire TI-Basic knowledge base to create UI-driven apps that calculated all sorts of functions for me (work smarter, not harder!), I searched online for a way to grow my toolbox even more. That's when I found MirageOS, a bootable OS (crazy!) which allowed for the creation of more complex graphical programs using bootstrapped UI components and screen render methods. On a calculator! Needless to say that after creating a few games, I was dedicated to becoming a programmer. More than that - I was dedicated to discovering how things worked. 
-
-My love of music led to music theory, vocal lessons, and piano self-instruction. My love of food led to following food blogs and trying to recreate complex and interesting recipes ranging from vegan pulled pork to homemade Thai curry to the perfect fried egg. One photography class led to over 6000 beautiful photos (post-process) in just over one year. I've found that through hard work and passion, any interest can become a skill. 
-
-And so, as I begin my dream career, I'll continue to harness that passion for learning to stay up to date on industry standards, design tastes, and much more. I love meeting new people, so feel free to send a connection request, and let's have a chat!
