@@ -1,5 +1,23 @@
 # Day 4
 
+## [Merge Two Sorted Lists](./mergelinkedlists.py)
+
+Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
+
+```python
+1. [1, 2, 4],
+   [1, 3, 4]
+2. [0, 0, 2, 4, 7, 10],
+   [0, 1, 1, 2, 3, 4, 4, 5, 20]
+```
+
+Expected Outputs:
+
+```python
+1. [1, 1, 2, 3, 4, 4]
+2. [0, 0, 0, 1, 1, 2, 2, 3, 4, 4, 4, 5, 7, 10, 20]
+```
+
 ## [Decode String](./decodestring.py)
 
 Given an encoded string, return its decoded string.
